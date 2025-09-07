@@ -17,7 +17,7 @@ Downloaded from the [Alex The Analyst](https://www.analystbuilder.com/)
 
 ## 🛠️ Requirements
 
-* PowerBI from Microsoft
+* Download PowerBI from Microsoft
 
 ---
 

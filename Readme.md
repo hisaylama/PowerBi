@@ -1,3 +1,6 @@
+[![Power BI](https://img.shields.io/badge/PowerBI-Dashboards-F2C811?logo=powerbi&logoColor=white)](https://github.com/yourname/yourrepo/tree/main/powerbi/dashboards)
+[![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-FFB900?logo=powerbi&logoColor=black)](https://github.com/yourname/yourrepo/tree/main/powerbi/visuals)
+[![Power BI](https://img.shields.io/badge/PowerBI-Reports%20%7C%20Analytics-F2C811?logo=powerbi&logoColor=black)](https://github.com/yourname/yourrepo/tree/main/powerbi/reports)
 
 # 📘 Basic PowerBI: Creating dashboard and data visualisation
 

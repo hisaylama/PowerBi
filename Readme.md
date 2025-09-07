@@ -12,7 +12,7 @@ This repository contains practice scripts, queries, and notes from the **PowerBI
 
 * **Practice Exercises** – Example problems and solutions to reinforce concepts.
 
-* **Databse for practice**
+* **Data for practice**
 Downloaded from the [Alex The Analyst](https://www.analystbuilder.com/)
 
 ## 🛠️ Requirements
